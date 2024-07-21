@@ -1,1 +1,1 @@
-# odin-recipes
+I have learn to perform basic HTML task with Instruction, and have basic understanding about HTML with this project
